@@ -5,3 +5,4 @@
 <a href="https://babinigor.github.io/Word-Analytics/"><img src="https://github.com/user-attachments/assets/ce09f7e4-a1e6-4ea7-b179-d7242bcf2b59"/></a>
 
 ## How to use
+With this web application, users can count the number of words and characters in a piece of text, as well as determine if the text is suitable for use on Instagram or Facebook.
